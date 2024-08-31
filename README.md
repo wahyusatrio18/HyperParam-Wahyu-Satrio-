@@ -25,7 +25,7 @@ Gambaran Umum Proyek: Penekanan khusus dari proyek ini diletakkan pada bahaya st
  
  Pengembangan Model: 
  
- Berbagai model pembelajaran mesin dikembangkan menggunakan pustaka scikit-learn dari Python, termasuk: Berbagai model pembelajaran mesin dikembangkan menggunakan pustaka scikit-learn dari Python, termasuk: 
+ Berbagai model pembelajaran mesin dikembangkan menggunakan pustaka scikit-learn dari Python, termasuk: 
  - Pengklasifikasi DecisionTree
  - Pengklasifikasi RandomForest
  - Model-model yang digunakan dioptimalkan menggunakan GridSearchCV dan RandomizedSearchCV untuk mendapatkan hiperparameter terbaik. 
