@@ -34,8 +34,6 @@ Gambaran Umum Proyek: Penekanan khusus dari proyek ini diletakkan pada bahaya st
 Hasilnya, model Random Forest memberikan akurasi, khususnya nilai yang tinggi dalam hal presisi, recall, dan F1-score. Kinerja model yang diusulkan kemudian dinilai dan dievaluasi dengan membuat matriks kebingungan dan dengan menggunakan teknik validasi silang. 
  
 Kesimpulan: Proyek ini mampu menunjukkan bagaimana, dengan menggunakan pembelajaran mesin statistik, risiko stroke dapat dinilai berdasarkan beberapa data spesifik tentang kesehatan seseorang. Model di atas akan
-
- Teknologi yang Digunakan: 
  
  Library Python yaitu:  
 - Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib. 
